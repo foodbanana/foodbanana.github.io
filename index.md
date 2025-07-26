@@ -20,7 +20,7 @@ Hello world! &#128525;
 ## Contact
 
 ```
-Affiliation: Cloud Computing SW Research Section, Future Computing Research Division, Artificial Intelligence Research Laboratory, Electronics and Telecommunications Research Institute (ETRI)
-Office: ETRI 7-563, 218, Gajeong-ro, Yuseong-gu, Daejeon, Republic of Korea
-Email: shsonkorea[at]etri.re.kr or shsongist[at]gmail.com
+Affiliation: CAD, robot manipulation using AI(RL), Computer vision, Machine learning data analysis
+Living address : 73, Dongsomun-ro 13-gil, Seongbuk-gu, Seoul, Republic of Korea, near Korea University, Republic of Korea
+Email: christy201[at]daum.net or twvirus7338[at]gmail.com
 ```
