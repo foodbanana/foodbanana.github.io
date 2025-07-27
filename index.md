@@ -2,7 +2,7 @@
 layout: page
 title: Korea University student
 subtitle: AI ML physics Research 
-cover-img: /assets/img/TaeUngLee.jpg
+cover-img: /assets/img/TaeUngLee2.jpg
 ---
 
 <br/>
