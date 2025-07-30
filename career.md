@@ -27,6 +27,7 @@ title: Research experience
 
 * Project: Explainable AI(XAI) 중 MIT에서 2024년에 발표된 KAN 머신러닝 모델을 활용해 에너지공정 데이터 분석 
   * Role: 8개의 input variable과 특정 output의 관계를 함수 형태로 도출, 민감도 분석(sensitivity analysis) 진행
+  * [KAN 논문 아카이브 링크](https://arxiv.org/abs/2404.19756)
 
 ### Seoul national university intern(2024_12~2025_01)
 * Project: 서울대 기계공학부 한경원 교수님의 랩실에서 학부연구생 진행
@@ -45,9 +46,17 @@ title: Research experience
 * 유튜브 링크 :  [LG전자 산학장학생 합격자 관련 유튜브 링크](https://www.youtube.com/watch?v=3aS_aEUid34)
 
 
+  
 
-### Korea university student. mechanical engineering (undergraduate)  
 
+
+
+### Korea university student. mechanical engineering (undergraduate)  (2020_03~2026_08)  
+
+
+
+### Korea army (2021_07 ~ 2023_01) 
+* Role : fixing automobiles
 
   
 
