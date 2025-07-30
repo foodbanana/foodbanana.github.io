@@ -4,7 +4,7 @@ title: LG전자 산학장학생 합격 및 행사 참여
 subtitle: LG 사이언스 파크 방문
 gh-repo: foodbanana.github.io
 gh-badge: [star, fork, follow]
-tags: [LG, taeung lee, robot]
+tags: [LG, robot]
 comments: true
 ---
 
@@ -13,8 +13,7 @@ LG전자의 계약학과 대학원인 고려대 스마트융합학과에 석사 
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=3aS_aEUid34" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=3aS_aEUid34" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[유튜브 링크}(https://www.youtube.com/watch?v=3aS_aEUid34) 
 
 
 
