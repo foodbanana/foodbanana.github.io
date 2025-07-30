@@ -42,7 +42,7 @@ I am currently planning to pursue **graduate studies (Master's or integrated Mas
 
 ---
 
-> I look forward to contributing to groundbreaking research that will shape the future of intelligent robotic systems!
+> I am looking forward to contributing to groundbreaking research that will shape the future of intelligent robotic systems!
 
 
 I loves to bring new ideas and share it with collaborators.  
@@ -60,6 +60,17 @@ You can see more information about me at below links.
 
 🔗 [자기소개 PPT 다운로드](/assets/files/ppt_taeunglee.pdf)  
 
+
+<br>
+<br>
+<br>
+<br>
+
+### In addition)
+
+If you interested in investing, please see my notion about value investing. I had participated in academic conference about value investing at korea university.
+<br>
+📱 [이태웅의 투자공부 notion 사이트 링크](https://www.notion.so/19c9c3b1db3a8027a4e9f7b304816e46).  
 
  
 <br>
