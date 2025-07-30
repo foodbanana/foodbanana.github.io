@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Korea University student
-subtitle: AI ML physics Research 
+title: TaeUng Lee's AI ML physics Research 
+subtitle: Korea university student
 cover-img: /assets/img/TaeUngLee2.jpg
 ---
 
@@ -11,10 +11,24 @@ cover-img: /assets/img/TaeUngLee2.jpg
 
 **TaeUng Lee* is a **student researcher**  
 
-He studies AI and computer vision, reinforcement learning and robor manipulation, designing using CAD.  
-His research notion is [이태웅의 notion](https://www.notion.so/notion-a83e608e32364ab0bb56b7ec95b03e77). You can see more information about me. Thank you
+I am studying AI and computer vision, reinforcement learning and robor manipulation, designing using CAD.  
 
-He loves to bring new ideas and share it with collaborators. &#128525;
+You can see more information about me at below links.  
+
+
+[이태웅의 notion 사이트 링크](https://www.notion.so/notion-a83e608e32364ab0bb56b7ec95b03e77).  
+
+[CV 다운로드](/assets/files/CV_taeunglee.pdf)  
+
+[자기소개 PPT 다운로드](/assets/files/ppt_taeunglee.pdf)  
+
+
+I loves to bring new ideas and share it with collaborators.  
+Thank you for reading! &#128525;.  
+
+
+    
+
 
 ## Contact
 
