@@ -13,7 +13,7 @@ LG전자의 계약학과 대학원인 고려대 스마트융합학과에 석사 
 
 
 
-[유튜브 링크}(https://www.youtube.com/watch?v=3aS_aEUid34) 
+[유튜브 링크](https://www.youtube.com/watch?v=3aS_aEUid34) 
 
 
 
