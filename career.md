@@ -33,16 +33,16 @@ title: Research experience
 * Project: 서울대 기계공학부 한경원 교수님의 랩실에서 학부연구생 진행
   * Role: 피에조 소자의 진동이 shift 됨을 이용해 직장수지검사(DRE) 시 종양의 강성을 측정(예측)하는 센서 개발업무 참여 
 
-### Yonsei university summer intern (2023_07~2025_09)
+### Yonsei university summer intern (2024_07~2024_09)
 * Project: 연세대 AI 융합학과 및 기계공학과 신동준 교수님 랩실에서 학부연구생 진행
   * Role: 빅맨(Bigman) 로봇의 손가락을 설계 및 제어
 
-### Korea university intern (2023_05~2025_10)
+### Korea university intern (2024_05~2024_10)
 * Project: 고려대 기계공학과 송용남 교수님 랩실에서 학부연구생 진행
   * Role: 내시경용 봉합 장치 설계 업무 참여 및 무릎 gap sensor팀 소속
 
 
-### LG 전자 산학장학생 합격 (2024)
+### LG 전자 산학장학생 합격 (2024_09)
 * 유튜브 링크 :  [LG전자 산학장학생 합격자 관련 유튜브 링크](https://www.youtube.com/watch?v=3aS_aEUid34)
 
 
