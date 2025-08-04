@@ -56,9 +56,9 @@ You can see more information about me at below links.
 
 📱 [이태웅의 notion 사이트 링크](https://www.notion.so/notion-a83e608e32364ab0bb56b7ec95b03e77).  
 
-📧 [CV 다운로드](/assets/files/CV_taeunglee.pdf)  
+📧 [CV 다운로드](/assets/files/CV_TaeUngLee.pdf)  
 
-🔗 [자기소개 PPT 다운로드](/assets/files/ppt_taeunglee.pdf)  
+🔗 [자기소개 PPT 다운로드](/assets/files/ppt_TaeUngLee.pdf)  
 
 
 <br>
@@ -70,7 +70,7 @@ You can see more information about me at below links.
 
 If you interested in investing, please see my notion about value investing. I had participated in academic conference about value investing at korea university.
 <br>
-📱 [이태웅의 투자공부 notion 사이트 링크](https://www.notion.so/19c9c3b1db3a8027a4e9f7b304816e46).  
+📱 [이태웅의 투자공부 notion 사이트 링크](https://chain-surf-9e6.notion.site/notion-a83e608e32364ab0bb56b7ec95b03e77?pvs=74).  
 
  
 <br>
